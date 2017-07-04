@@ -1,0 +1,2 @@
+# Recommendation-System
+This is a recommendation system similar to the ones on Netflix, Amazon, or Barnes&amp;Noble. It uses a predetermined rating system and reads a set of reader ratings for a set of books. Coded in Python, the project consists of functions to calculate the average rating of every book and return a dictionary, lookup the average rating of each book, calculate the similarity between all of the ratings of 2 given users, return the user whose similarity score with the current user is highest, and list recommendations.
